@@ -7,7 +7,7 @@ body {
 } 
 
 .controller.xbox{
-    background: url(Base.gif);
+    background: url(base.gif);
     width: 807px;
     height: 651px;
     margin-left: 0;
@@ -22,7 +22,7 @@ body {
 }
 
 .xbox .stick {
-    background: url(Sticks.png);
+    background: url(sticks.png);
     width: 100px;
     height: 100px;
 } 
@@ -44,7 +44,7 @@ body {
 } 
 
 .xbox .button {
-    background: url(Buttons.png);
+    background: url(buttons.png);
     width: 58px;
     height: 58px;
 } 
@@ -90,7 +90,7 @@ body {
 } 
 
 .xbox .back, .xbox .start {
-    background: url(Start-Select.png);
+    background: url(start-select.png);
     width: 27px;
     height: 57px;
     opacity: 0;
@@ -109,7 +109,7 @@ body {
 } 
 
 .xbox .face {
-    background: url(DPAD.png);
+    background: url(dpad.png);
     position: absolute;
     opacity: 0;
 } 
@@ -153,7 +153,7 @@ body {
 } 
 
 .xbox .bumper {
-    background: url(Bumper.png);
+    background: url(bumper.png);
     width: 110px;
     height: 35px;
     opacity: 0;
@@ -166,7 +166,7 @@ body {
 } 
 
 .xbox .trigger {
-    background: url(Trigger.png);
+    background: url(trigger.png);
     width: 111px;
     height: 108px;
     opacity: 0;
